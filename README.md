@@ -88,12 +88,15 @@ dim_product	fact_forecast
 dim_geography	fact_forecast
 dim_date	fact_forecast
 
-@ All relationships are configured as:
+# All relationships are configured as:
 
 One-to-Many (1:*)
 Single Direction
 Active Relationships
 Dashboard Requirements Implemented
+
+<img width="503" height="314" alt="Data Model" src="https://github.com/user-attachments/assets/7e246a94-e2c3-47b7-8fbf-3e9bcb16714d" />
+
 
 # The Power BI dashboard includes:
 
@@ -118,6 +121,8 @@ Customer Behavior Analysis
 Analysis of top customers and the products they purchase.
 
 Geographic Filtering
+
+<img width="592" height="329" alt="Dashboard" src="https://github.com/user-attachments/assets/1625b5c2-703a-467b-b731-11ac5e0e42f5" />
 
 # Interactive filtering by:
 Country
