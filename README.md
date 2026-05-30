@@ -122,8 +122,6 @@ Analysis of top customers and the products they purchase.
 
 Geographic Filtering
 
-<img width="592" height="329" alt="Dashboard" src="https://github.com/user-attachments/assets/1625b5c2-703a-467b-b731-11ac5e0e42f5" />
-
 # Interactive filtering by:
 Country
 State
@@ -150,6 +148,8 @@ Forecast and Sales tables are connected through shared dimensions only.
 Surrogate keys are used for all dimensions.
 Duplicate records are removed during the transformation process.
 Date dimension is used as the common calendar table for reporting and analysis.
+
+<img width="592" height="329" alt="Dashboard" src="https://github.com/user-attachments/assets/1625b5c2-703a-467b-b731-11ac5e0e42f5" />
 
 # Repository Structure
 Orion-Technical-Assessment/
