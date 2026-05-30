@@ -1,14 +1,12 @@
 
 """
-Orion Technical Assessment – Enhanced ETL Pipeline
-==================================================
-Enhancements:
--------------
+Orion Sales Analytics
+---------------------
+Transformations :
 1. Remove duplicated rows from all tables.
 2. Add surrogate keys (SRKeys) to all dimensions.
 3. Use surrogate keys as foreign keys inside fact tables.
-4. Normalize forecast table with dimension references.
-5. Proper Star Schema design.
+4. Proper Star Schema design.
 """
 
 import json
